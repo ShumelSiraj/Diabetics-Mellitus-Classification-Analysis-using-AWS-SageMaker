@@ -5,7 +5,7 @@ Implemented a machine learning project to classify Diabetes Mellitus using Suppo
 
 ## Key Responsibilities:
 
-- *AWS Account Setup:* Created an AWS account and navigated the AWS Management Console to access SageMaker.
+- `AWS Account Setup:` Created an AWS account and navigated the AWS Management Console to access SageMaker.
 - *SageMaker Notebook Instance:* Launched and configured a SageMaker notebook instance to develop and execute the machine learning code.
 - *Data Preparation:* Uploaded and preprocessed the Diabetes Mellitus dataset, performing data cleaning, transformation, and normalization.
 - *Model Training:* Developed and trained the SVM model using the prepared dataset, then evaluated its performance on validation data.
